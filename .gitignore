@@ -1,0 +1,43 @@
+# ===== 说明文档（无需上传） =====
+交接文档.md
+**/题目对照.md
+
+# ===== 暂不处理/本地保留的目录 =====
+practice/
+test/
+
+# ===== 原始练习目录（已按题单整理副本到 顺序结构/ 分支结构/）=====
+LearnCpp/
+LearnPy/
+
+# ===== 临时调研脚本 =====
+_scrape_luogu.py
+
+# ===== Python =====
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# ===== Visual Studio / C++ 编译产物 =====
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.ilk
+*.pdb
+*.log
+*.recipe
+*.ipch
+*.tlog
+*.exe
+
+# ===== 压缩包 / 其他 =====
+*.7z
+*.zip
+.workbuddy/
+.DS_Store
+Thumbs.db
