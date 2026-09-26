@@ -9,6 +9,12 @@ test/
 # ===== 原始练习目录（已按题单整理副本到 顺序结构/ 分支结构/）=====
 LearnCpp/
 LearnPy/
+# Linux 本地目录（小写）
+Learncpp/
+Learnpy/
+
+# ===== VS Code =====
+.vscode/
 
 # ===== 临时调研脚本 =====
 _scrape_luogu.py
